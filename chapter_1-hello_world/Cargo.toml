@@ -1,6 +1,0 @@
-[package]
-name = "chapter_1-hello_world"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]

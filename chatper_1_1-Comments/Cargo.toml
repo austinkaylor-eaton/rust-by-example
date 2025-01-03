@@ -1,6 +1,0 @@
-[package]
-name = "chatper_1_1-Comments"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
